@@ -1,0 +1,6 @@
+E:\Lindenwood\IIT34050\CardCollector\CardCollector\bin\Debug\net7.0\publish\CardCollector.exe
+E:\Lindenwood\IIT34050\CardCollector\CardCollector\bin\Debug\net7.0\publish\CardCollector.dll
+E:\Lindenwood\IIT34050\CardCollector\CardCollector\bin\Debug\net7.0\publish\CardCollector.deps.json
+E:\Lindenwood\IIT34050\CardCollector\CardCollector\bin\Debug\net7.0\publish\CardCollector.runtimeconfig.json
+E:\Lindenwood\IIT34050\CardCollector\CardCollector\bin\Debug\net7.0\publish\CardCollector.pdb
+E:\Lindenwood\IIT34050\CardCollector\CardCollector\bin\Debug\net7.0\publish\Newtonsoft.Json.dll
